@@ -6,4 +6,5 @@ for num in range(1, 101):
 		continue
 	print(num)
 print("total pass {} time".format(count))
+# test
 		
